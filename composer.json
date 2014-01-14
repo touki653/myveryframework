@@ -1,0 +1,19 @@
+{
+    "name": "touki/mvf",
+    "description": "Wow - My Very Framework - So personnal code - Much open source",
+    "require": {
+        "symfony/http-foundation": "~2.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Touki\\MVF\\": "src/Touki/MVF"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Touki",
+            "email": "g.vincendon@vithemis.com"
+        }
+    ]
+}
