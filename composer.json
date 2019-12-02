@@ -2,7 +2,7 @@
     "name": "touki/mvf",
     "description": "Wow - My Very Framework - So personnal code - Much open source",
     "require": {
-        "symfony/http-foundation": "~2.4.0"
+        "symfony/http-foundation": "~2.8.52"
     },
     "autoload": {
         "psr-0": {
